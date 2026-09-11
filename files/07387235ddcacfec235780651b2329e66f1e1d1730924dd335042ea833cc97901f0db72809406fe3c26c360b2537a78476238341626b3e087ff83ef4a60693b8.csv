@@ -1,0 +1,73 @@
+Entity,2014,2021,Absolute_Change,Percent_Change,Change_Category,Est_Coal_Reduction_MW,Est_Renewable_Addition_MW,Primary_Driver
+Ecuador,17.276142,32.3542,15.078057999999999,87.3,Major Increase,682.0,864.0,Policy-Driven
+Denmark,24.633705,39.24958,14.615875000000003,59.3,Major Increase,688.0,799.0,Policy-Driven
+Sweden,40.648502,50.924007,10.275505000000003,25.3,Moderate Increase,329.0,564.0,Market-Driven
+Finland,24.728233,34.61129,9.883056999999997,40.0,Moderate Increase,341.0,588.0,Market-Driven
+United Kingdom,8.877189,17.946543,9.069353999999999,102.2,Exceptional Growth,449.0,557.0,Policy-Driven
+Estonia,5.5141263,14.325047,8.8109207,159.8,Exceptional Growth,363.0,584.0,Policy-Driven
+Greece,10.859847,19.391674,8.531826999999998,78.6,Major Increase,261.0,515.0,Policy-Driven
+Netherlands,3.9784324,12.3737955,8.3953631,211.0,Exceptional Growth,374.0,540.0,Policy-Driven
+Brazil,38.852745,46.21975,7.367004999999999,19.0,Slight Increase,319.0,420.0,Mixed Factors
+Australia,5.979823,12.933532,6.953709,116.3,Exceptional Growth,252.0,419.0,Policy-Driven
+Ireland,10.700231,17.581884,6.881652999999998,64.3,Major Increase,227.0,395.0,Policy-Driven
+Turkey,9.769227,16.517044,6.747816999999998,69.1,Major Increase,311.0,420.0,Policy-Driven
+Chile,20.193163,26.518875,6.325712000000003,31.3,Moderate Increase,227.0,408.0,Market-Driven
+Venezuela,22.182087,28.434155,6.252068000000001,28.2,Moderate Increase,307.0,430.0,Market-Driven
+Germany,13.278847,19.453121,6.174273999999999,46.5,Moderate Increase,269.0,355.0,Market-Driven
+Indonesia,4.4786325,10.385715,5.9070825,131.9,Exceptional Growth,278.0,411.0,Policy-Driven
+Sri Lanka,15.6329,21.404533,5.771633000000001,36.9,Moderate Increase,257.0,295.0,Market-Driven
+China,10.19733,14.946244,4.748914000000001,46.6,Moderate Increase,206.0,286.0,Market-Driven
+Latvia,19.171963,23.917372,4.745408999999999,24.8,Moderate Increase,181.0,267.0,Market-Driven
+Colombia,28.364685,33.02041,4.655724999999997,16.4,Slight Increase,164.0,252.0,Mixed Factors
+Luxembourg,2.5587912,7.095166,4.5363748,177.3,Exceptional Growth,222.0,312.0,Policy-Driven
+Malaysia,3.5630174,8.059835,4.4968176,126.2,Exceptional Growth,213.0,271.0,Policy-Driven
+Japan,6.9359174,11.428995,4.4930776,64.8,Major Increase,212.0,274.0,Policy-Driven
+Switzerland,32.27639,36.716644,4.440254000000003,13.8,Slight Increase,190.0,234.0,Mixed Factors
+Iceland,82.747856,86.874535,4.126678999999996,5.0,Slight Increase,164.0,264.0,Mixed Factors
+Israel,1.0096922,5.132294,4.1226018,408.3,Exceptional Growth,205.0,247.0,Policy-Driven
+Ukraine,2.2846859,6.1008415,3.8161555999999996,167.0,Exceptional Growth,136.0,201.0,Policy-Driven
+Peru,23.94071,27.741009,3.800298999999999,15.9,Slight Increase,141.0,231.0,Mixed Factors
+Mexico,6.727102,10.514754,3.7876519999999996,56.3,Major Increase,186.0,262.0,Policy-Driven
+United States,7.262891,10.655991,3.3931000000000004,46.7,Moderate Increase,115.0,210.0,Market-Driven
+Belgium,6.051173,9.336409,3.2852359999999994,54.3,Major Increase,142.0,196.0,Policy-Driven
+France,10.459279,13.671011,3.2117319999999996,30.7,Moderate Increase,148.0,198.0,Market-Driven
+Morocco,4.4587364,7.6361694,3.1774329999999997,71.3,Major Increase,124.0,194.0,Policy-Driven
+Thailand,4.2589955,7.113618,2.8546224999999996,67.0,Major Increase,99.0,178.0,Policy-Driven
+Hungary,4.012245,6.819573,2.807328,70.0,Major Increase,133.0,176.0,Policy-Driven
+New Zealand,37.536892,40.21865,2.681757999999995,7.1,Slight Increase,97.0,169.0,Mixed Factors
+Norway,68.88728,71.558365,2.671084999999991,3.9,Slight Increase,83.0,176.0,Mixed Factors
+South Africa,0.81809825,3.408608,2.59050975,316.7,Exceptional Growth,125.0,169.0,Policy-Driven
+Lithuania,7.0076375,9.490351,2.4827135,35.4,Moderate Increase,106.0,142.0,Market-Driven
+Portugal,30.292532,32.703953,2.411420999999997,8.0,Slight Increase,96.0,134.0,Mixed Factors
+North Macedonia,12.513251,14.82318,2.3099290000000003,18.5,Slight Increase,78.0,125.0,Mixed Factors
+Spain,20.088554,22.341663,2.253109000000002,11.2,Slight Increase,73.0,144.0,Mixed Factors
+Egypt,4.1816525,6.230571,2.0489185,49.0,Moderate Increase,77.0,124.0,Market-Driven
+India,7.344336,9.31085,1.966514,26.8,Moderate Increase,92.0,102.0,Market-Driven
+South Korea,1.764075,3.7249858,1.9609107999999997,111.2,Exceptional Growth,78.0,100.0,Policy-Driven
+Bulgaria,9.543798,11.486526,1.942727999999999,20.4,Moderate Increase,76.0,117.0,Market-Driven
+Canada,28.14776,29.88844,1.7406799999999976,6.2,Slight Increase,55.0,93.0,Mixed Factors
+Poland,6.055967,7.7616863,1.7057193000000002,28.2,Moderate Increase,64.0,105.0,Market-Driven
+Taiwan,1.7324574,3.0361571,1.3036997000000001,75.3,Major Increase,63.0,76.0,Policy-Driven
+Kazakhstan,2.982452,3.988574,1.006122,33.7,Moderate Increase,32.0,69.0,Market-Driven
+Czechia,5.645436,6.497798,0.8523620000000003,15.1,Slight Increase,41.0,56.0,Mixed Factors
+Austria,36.640297,37.481792,0.8414950000000019,2.3,Slight Increase,26.0,46.0,Mixed Factors
+Belarus,0.20674793,0.9698578,0.76310987,369.1,Exceptional Growth,37.0,53.0,Policy-Driven
+Russia,5.887215,6.6202893,0.7330742999999993,12.5,Slight Increase,23.0,37.0,Mixed Factors
+Argentina,11.038978,11.329249,0.2902710000000006,2.6,Slight Increase,13.0,19.0,Mixed Factors
+Croatia,28.121477,28.271935,0.15045800000000042,0.5,Slight Increase,5.0,10.0,Mixed Factors
+Algeria,0.117502466,0.26136735,0.143864884,122.4,Exceptional Growth,7.0,9.0,Policy-Driven
+Hong Kong,0.046603356,0.108698964,0.062095608,133.2,Exceptional Growth,2.0,4.0,Policy-Driven
+Bangladesh,0.646162,0.6501469,0.003984899999999958,0.6,Slight Increase,0.0,0.0,Mixed Factors
+Trinidad and Tobago,0.005310354,0.007159467,0.0018491130000000003,34.8,Moderate Increase,0.0,0.0,Market-Driven
+Turkmenistan,0.0061142617,0.007483229,0.0013689673000000001,22.4,Moderate Increase,0.0,0.0,Market-Driven
+Slovakia,9.855442,9.82116,-0.03428199999999926,-0.3,Slight Decrease,-2.0,-2.0,Economic/Other
+Iran,1.4402106,1.2903937,-0.1498168999999998,-10.4,Major Decrease,-5.0,-10.0,Economic/Other
+Azerbaijan,2.433617,2.2015429,-0.23207409999999973,-9.5,Slight Decrease,-7.0,-14.0,Economic/Other
+Iraq,1.7387189,1.502491,-0.23622790000000005,-13.6,Major Decrease,-10.0,-15.0,Economic/Other
+Uzbekistan,2.9718068,2.6506786,-0.3211282,-10.8,Major Decrease,-12.0,-22.0,Economic/Other
+Vietnam,23.07397,22.734407,-0.3395629999999983,-1.5,Slight Decrease,-11.0,-23.0,Economic/Other
+Romania,17.897146,17.481031,-0.4161149999999978,-2.3,Slight Decrease,-20.0,-28.0,Economic/Other
+Pakistan,11.496394,10.622897,-0.8734970000000004,-7.6,Slight Decrease,-36.0,-44.0,Economic/Other
+Italy,19.739761,18.36226,-1.3775010000000023,-7.0,Slight Decrease,-53.0,-77.0,Economic/Other
+Philippines,13.009114,10.90163,-2.1074839999999995,-16.2,Major Decrease,-78.0,-107.0,Economic/Other
+Slovenia,21.739605,18.768454,-2.9711510000000025,-13.7,Major Decrease,-119.0,-186.0,Economic/Other
