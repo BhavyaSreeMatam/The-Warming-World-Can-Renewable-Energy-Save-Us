@@ -1,0 +1,14 @@
+{
+  "name": "260652d7d5d714f0",
+  "main": "260652d7d5d714f0@563.js",
+  "version": "563.0.0",
+  "homepage": "https://observablehq.com/d/260652d7d5d714f0",
+  "author": {
+    "name": "NYU",
+    "url": "https://observablehq.com/@nyu38"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
